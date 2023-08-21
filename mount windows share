@@ -1,0 +1,1 @@
+sudo mount -t cifs //192.168.1.100/share/ /mnt/folder -o username=alfondo,password=porcellani
